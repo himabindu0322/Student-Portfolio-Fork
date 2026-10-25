@@ -3,9 +3,9 @@
 Each student should add a separate Markdown file named with their own roll number.
 
 ## Example
-A student with roll number `23A91A0501` should create:
+A student with roll number `24B11CS195` should create:
 
-`contributions/23A91A0501.md`
+`contributions/24B11CS195.md`
 
 Do not edit another student's contribution file. In your file, include:
 - Name and roll number
